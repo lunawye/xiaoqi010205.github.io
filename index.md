@@ -1,5 +1,5 @@
 # code
-[剑指offer](C:\Users\10483\Desktop\page\xiaoqi010205.github.io\leetcode_by_xiaoqi2022\code\剑指Offer)
+[剑指offer](C:\Users\10483\Desktop\page\xiaoqi010205.github.io\剑指offer.md)
 
 
 ## Welcome to GitHub Pages
