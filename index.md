@@ -1,3 +1,7 @@
+# code
+[剑指offer](C:\Users\10483\Desktop\page\xiaoqi010205.github.io\leetcode_by_xiaoqi2022\code\剑指Offer)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xiaoqi010205/xiaoqi010205.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
